@@ -1,4 +1,4 @@
-#MySQL TO MongoDB:
+# MySQL TO MongoDB:
 This application turns a MySQL database(Structure and its data) into a MongoDB database
 it's a small ETL (Extract Transform Load).
 
